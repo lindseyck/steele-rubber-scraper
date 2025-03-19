@@ -7,6 +7,10 @@ This repository contains Python scripts for scraping automotive make data, image
 - Extracts image URLs for each make.
 - Merges multiple CSV files into a single dataset.
 
+## Prerequisites
+- Python 3.x
+- pip
+
 ## Installation
 Clone the repository:
 ```sh
